@@ -1,5 +1,5 @@
 a Apple
 b Banyan
-c Cherry 1
+c Cherry
 d Dogwood
-e Elder 1
+e Elder
