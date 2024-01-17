@@ -1,6 +1,7 @@
 a Apple
 b Banyan
 <<<<<<< HEAD
+<<<<<<< HEAD
 c Cherry12345
 d Dogwood
 e Elder12345
@@ -8,4 +9,9 @@ e Elder12345
 c Cherry1232
 d Dogwood
 e Elder1232
+>>>>>>> alternative
+=======
+c Cherry1234
+d Dogwood
+e Elder1234
 >>>>>>> alternative
